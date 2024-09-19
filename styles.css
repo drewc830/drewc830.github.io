@@ -17,7 +17,7 @@ header logo {
    
 }
 header {
-    background-color: #333;
+    background-color: #e30707;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -125,3 +125,9 @@ footer {
     width: 100%;
     height: auto;
   }
+
+.dropdowntext{
+
+    text-align:left;
+    display:inline-block;
+}
