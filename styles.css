@@ -136,17 +136,3 @@ footer {
  display: inline-block
 }
 
-.imageMedium
-{
-    width: auto;
-    height: auto;
-}
-
-.popupimage
-{
-    display:flex;
-    justify-content:center;
-    position:fixed;
-    width: 100%;
-    height: auto;
-}
