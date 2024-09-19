@@ -23,6 +23,7 @@ function showImage(elemId, imgSrc)
     popImage.src = imgSrc;
     popImage.style.position = "absolute";
     popImage.style.zIndex = "1";
+    popImage.className = "popupImage";
     elem.appendChild(popImage);
     shown = true;
     }
