@@ -135,3 +135,16 @@ footer {
  text-align:left;
  display: inline-block
 }
+
+.imageMedium
+{
+    width: auto;
+    height: auto;
+}
+
+.imagepoup
+{
+    display:flex;
+    justify-content:center;
+    position:fixed;
+}
