@@ -10,6 +10,8 @@ body {
     background-color: #ffffff;
     color: #333;
 }
+
+
 header logo {
     background-color: #333;
     color: white;
@@ -17,7 +19,7 @@ header logo {
    
 }
 header {
-    background-color: #e30707;
+    background-color: #711818;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -58,7 +60,8 @@ nav ul li a:hover {
 
 h2 {
     margin-bottom: 15px;
-    color: #333;
+    color:#000000;
+    border-bottom: 2px solid #ffffff;
 }
 
 ul {
@@ -116,7 +119,7 @@ form button:hover {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #333;
+    background-color: #711818;
     color: white;
     margin-top: 20px;
 }
@@ -126,8 +129,9 @@ footer {
     height: auto;
   }
 
-.dropdowntext{
+.dropdown{
 
-    text-align:left;
-    display:inline-block;
+ padding: 10px !important;
+ text-align:left;
+ display: inline-block
 }
